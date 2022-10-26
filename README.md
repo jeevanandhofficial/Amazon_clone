@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This project is a clone of the Amazon website. Hosted on Firebase at https://clone-27ad8.web.app/
+This project is a clone of the Amazon website. Hosted on Firebase at https://clone2-41d33.web.app
 
 ### Don't use it for any commercial purposes.
 
@@ -35,7 +35,7 @@ Disclaimer: Use the package manager you have on your system. Run either: npm or 
 
 Download the zip file from the above "Code" option, \
  or, \
-Clone this repository by running the command "git clone https://github.com/shivendradb/Amazon-clone-ReactJS.git" on the command prompt on your machine. \
+Clone this repository by running the command "git clone https://github.com/jeevanandhofficial/Amazon_clone.git" on the command prompt on your machine. \
 Now, open the project directory using "cd Amazon-clone-ReactJS" command.
 
 ### Step - 2
